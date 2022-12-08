@@ -22,7 +22,8 @@ My GitHub page is http://github.com/chrisglez001-csuf.
     the program. It amazes me how an image with multiple gradients can be
     created by using code and reminds me that behind any drawing program is a
     complexity of letters and numbers that produce what you see on your
-    computer.
+    computer. This program showed me there is more than just the standard
+    library.
 
 * Lab 12
 
@@ -31,4 +32,5 @@ My GitHub page is http://github.com/chrisglez001-csuf.
     image is moving. This time, the specific colors are seen moving either
     vertically, horizontally, and one is even blinking. Achieving this goal is
     satisfying because you see and understand how an image is created and how
-    multiple stages of images are created.
+    multiple stages of images are created. This program demonstrated how
+    animations are created with code and outputted to a .gif file.
