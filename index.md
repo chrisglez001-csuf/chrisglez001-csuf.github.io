@@ -17,6 +17,7 @@ My GitHub page is http://github.com/chrisglez001-csuf.
     loops.
 
 * Lab 10
+
     Part 3 of lab 10 is one of my favorites because of the output produced by
     the program. It amazes me how an image with multiple gradients can be
     created by using code and reminds me that behind any drawing program is a
@@ -24,6 +25,7 @@ My GitHub page is http://github.com/chrisglez001-csuf.
     computer.
 
 * Lab 12
+
     Part 1 of lab 12 is similar to part 3 of lab 10 but involves more looping
     to achieve an animated series of pictures that make it look as if the
     image is moving. This time, the specific colors are seen moving either
